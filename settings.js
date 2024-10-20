@@ -3,24 +3,24 @@ const chalk = require('chalk')
 
 //Edit the following information to your's. Starting from this point till....--------
 //owmner v card
-global.ytname = "YT: ElitePro" //ur yt chanel name
-global.socialm = "GitHub: Elite-MD" //ur github or insta name
-global.location = "Port Harcourt, Nigeria" //ur location
+global.ytname = "YT: Tilonx" //ur yt chanel name
+global.socialm = "GitHub: Tilonx" //ur github or insta name
+global.location = " Accra, Ghana" //ur location
 
 //new
 global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
-global.ownername = 'ELITE-PRO-V2' //ur owner name
-global.websitex = "https://youtu.be/@elite-pro-empire"
+global.ownernumber = '233598275873' //ur owner number
+global.ownername = 'LORD-TILONX' //ur owner name
+global.websitex = "https://youtu.be/@Tilonx"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
 global.wm = "ELITE-PRO-V2"
-global.botscript = 'https://github.com/Elite-MD/Elite-Pro-V2' //script link
+global.botscript = 'https://github.com/Tilonx/Elite-Pro-V2' //script link
 global.packname = "Sticker By"
-global.author = "ELITE-PRO-V2\n\n+2348109263390"
-global.creator = "2348109263390@s.whatsapp.net"
+global.author = "LORD-TILONX\n\n+233598275873"
+global.creator ="Wa.me/233598275873"
 global.xprefix = '.'
-global.premium = ["2348109263390"] // Premium User
+global.premium = ["233598275873"] // Premium User
 global.hituet = 0
 //Stop here don't exceeds'-----------------
 
